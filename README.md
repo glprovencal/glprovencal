@@ -7,5 +7,5 @@
  - [Group Assignments](https://github.com/glprovencal/group-assign)
  - [Identity Lifecycle](https://github.com/glprovencal/identity-lifecycle)
  - [Audit Logs](https://github.com/glprovencal/audit-logs)
- - [Sign-In Logs]()
+ - [Sign-In Logs](https://github.com/glprovencal/sign-in-logs)
  - [Authentication](https://github.com/glprovencal/authentication-1)
