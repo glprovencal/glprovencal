@@ -2,7 +2,7 @@
 
 - <b>Microsoft Azure Entra ID</b>
  - [Creating User's in Entra ID](https://github.com/glprovencal/user-accounts)
- - [Cloud Provisioning - P2 Licensing]()
+ - [Cloud Provisioning - P2 Licensing](https://github.com/glprovencal/P2-Licensing)
  - [Role Assignments]()
  - [Group Assignments]()
  - [Identity Lifecycle]()
