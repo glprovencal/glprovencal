@@ -12,7 +12,7 @@
 
 
 - <b>Okta</b>
- - [Import Users from Entra ID to Okta Environment]()
+ - [Import Users from Entra ID to Okta Environment](https://github.com/glprovencal/Import-Users-from-Entra-ID-to-Okt)
  - [Enrollment Provisioning in Okta - P2 Licensing]()
  - [Creating Users in Okta]()
  - [Add Attributes to User Profile]()
