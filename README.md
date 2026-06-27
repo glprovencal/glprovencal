@@ -9,3 +9,16 @@
  - [Audit Logs](https://github.com/glprovencal/audit-logs)
  - [Sign-In Logs](https://github.com/glprovencal/sign-in-logs)
  - [Authentication](https://github.com/glprovencal/authentication-1)
+
+
+- <b>Okta</b>
+ - [Import Users from Entra ID to Okta Environment]()
+ - [Enrollment Provisioning in Okta - P2 Licensing]()
+ - [Creating Users in Okta]()
+ - [Add Attributes to User Profile]()
+ - [Creating Groups in Okta]()
+ - [Attribute-Based Access Control (ABAC) - Rules]()
+ - [Audit Logs in Okta]()
+
+- <b>PowerShell</b>
+ - [Fundermentals]()
