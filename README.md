@@ -15,7 +15,7 @@
  - [Import Users from Entra ID to Okta Environment](https://github.com/glprovencal/Import-Users-from-Entra-ID-to-Okta)
  - [Enrollment Provisioning in Okta](https://github.com/glprovencal/Enrollment-Provisioning-in-Okta)
  - [Creating Users in Okta Manually](https://github.com/glprovencal/Creating-Users-in-Okta-Manually)
- - [Add Attributes to User Profile]()
+ - [Add Attributes to User Profile](https://github.com/glprovencal/Add-Attributes-to-User-Profiles)
  - [Creating Groups in Okta]()
  - [Attribute-Based Access Control (ABAC) - Rules]()
  - [Audit Logs in Okta]()
