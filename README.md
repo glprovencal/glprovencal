@@ -1,4 +1,4 @@
-<h1>Hi, I'm Gordon, a Cybersecurity, IAM Azure Associate </a>☺</h1>
+<h1>Hi, I'm Gordon, a Data Governance Analyst and a Cybersecurity, IAM Azure Associate </a>☺</h1>
 
 - <b>Microsoft Azure Entra ID</b>
  - [Creating User's in Entra ID](https://github.com/glprovencal/user-accounts)
