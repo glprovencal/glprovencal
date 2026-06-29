@@ -18,7 +18,7 @@
  - [Add Attributes to User Profile](https://github.com/glprovencal/Add-Attributes-to-User-Profiles)
  - [Creating Groups in Okta](https://github.com/glprovencal/Creating-Groups-in-Okta-Environment)
  - [Attribute-Based Access Control (ABAC) - Rules](https://github.com/glprovencal/Attributes-Based-Access-Control-ABAC-)
- - [Audit Logs in Okta]()
+ - [Audit Logs in Okta](https://github.com/glprovencal/Audit-Logs-in-Okta)
 
 - <b>PowerShell</b>
  - [Fundermentals]()
