@@ -1,14 +1,27 @@
-<h1>Hi, I'm Gordon, a Data Governance Analyst and a Cybersecurity, IAM Azure Associate </a>☺</h1>
+<h1>Identity and Access Management in Azure </a>☺</h1>
 
-- <b>Microsoft Azure Entra ID</b>
- - [Creating User's in Entra ID](https://github.com/glprovencal/user-accounts)
- - [Cloud Provisioning - P2 Licensing](https://github.com/glprovencal/P2-Licensing)
- - [Role Assignments](https://github.com/glprovencal/role-assignments)
- - [Group Assignments](https://github.com/glprovencal/group-assign)
- - [Identity Lifecycle](https://github.com/glprovencal/identity-lifecycle)
- - [Audit Logs](https://github.com/glprovencal/audit-logs)
- - [Sign-In Logs](https://github.com/glprovencal/sign-in-logs)
- - [Authentication](https://github.com/glprovencal/authentication)
+<b>Microsoft Azure Entra ID</b>
+
+**Creating Users in Entra ID**        
+[Executed user provisioning and identity management tasks inside our Microsoft Entra ID environment](https://github.com/glprovencal/user-accounts)
+
+**Cloud Provisioning - P2 Licensing**       
+[Simulated cloud-based user provisioning by assigning licenses to users within Entra ID](https://github.com/glprovencal/P2-Licensing)
+
+**Role Assignments**                
+[Assigned directory roles to enforce Role-Based Access Control (RBAC) and Least Privilege](https://github.com/glprovencal/role-assignments)
+
+**Group Assignments**                
+[Configured security groups and assigned groups to users to enforce access within Entra ID](https://github.com/glprovencal/group-assign)
+
+**Identity Lifecycle**          
+[Executed full identity lifecycle actions including onboarding, access modifications, account disabling, and secure deprovisioning](https://github.com/glprovencal/identity-lifecycle)
+
+**Audit Logs**         
+[Reviewed and interpreted identity activity through audit logs to understand access visibility and security tracking within Entra ID.](https://github.com/glprovencal/audit-logs)
+
+**Authentication**         
+[Demonstrated authentication methods assigned to user identities such as MFA](https://github.com/glprovencal/authentication)
 
 
 - <b>Okta</b>
