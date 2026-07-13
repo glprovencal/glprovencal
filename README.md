@@ -20,7 +20,7 @@ Hi, I'm Gordon! I'm a cybersecurity/Data Governance professional currently study
 ## 🔭 What I'm Currently Working On
 
 * **<a href="https://github.com/glprovencal/Azure-Entra-ID-and-Access-Management">Azure Entra ID Identity and Access Management</a>**
-* **<a href="">Okta Adminsitration</a>**
+* **<a href="https://github.com/glprovencal/Okta-Administration">Okta Adminsitration</a>**
 
 ## 🌱 Currently Learning 
 
