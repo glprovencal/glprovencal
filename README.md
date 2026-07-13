@@ -19,8 +19,8 @@ Hi, I'm Gordon! I'm a cybersecurity/Data Governance professional currently study
 
 ## 🔭 What I'm Currently Working On
 
-* **<a href="https://github.com/stephbiggs/Azure-Entra-ID-and-Access-Management">Azure Entra ID Identity and Access Management</a>**
-* **<a href="https://github.com/stephbiggs/Okta-Administration">Okta Adminsitration</a>**
+* **<a href="">Azure Entra ID Identity and Access Management</a>**
+* **<a href="">Okta Adminsitration</a>**
 
 ## 🌱 Currently Learning 
 
