@@ -21,7 +21,7 @@ Hi, I'm Gordon! I'm a cybersecurity/Data Governance professional currently study
 * **<a href="https://github.com/glprovencal/Basic-Employee-Onboarding-AD-RBAC-">Active Directory-(RBAC)-Lab - Employee Onboarding</a>**
 * **<a href="https://github.com/glprovencal/Azure-Entra-ID-and-Access-Management">Azure Entra ID Identity and Access Management</a>**
 * **<a href="https://github.com/glprovencal/Okta-Administration">Okta Adminsitration</a>**
-* **<a href="https://github.com/glprovencal/Okta-Administration">Okta Adminsitration</a>**
+* **<a href="https://github.com/glprovencal/Okta-SAML-App-Configuration)">Okta-SAML-App-Configuration</a>**
 
 ## 🌱 Currently Learning 
 
